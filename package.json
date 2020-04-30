@@ -30,7 +30,7 @@
     "bootstrap-datepicker": "^1.9.0",
     "bootstrap-multiselect": "^0.9.15",
     "getmac": "^1.4.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^2.3.5",
     "load-google-maps-api": "^2.0.1",
