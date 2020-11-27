@@ -42,7 +42,7 @@
     "sha1": "^1.1.1",
     "sqlite3": "^4.0.9",
     "squel": "^5.13.0",
-    "systeminformation": "^4.14.8"
+    "systeminformation": "^4.30.5"
   },
   "build": {
     "appId": "github.com/direndraQB/autoupdater",
