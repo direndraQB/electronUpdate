@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "electron-updater": "^4.2.0",
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "axios": "^0.19.0",
     "bootstrap-datepicker": "^1.9.0",
     "bootstrap-multiselect": "^0.9.15",
