@@ -31,7 +31,7 @@
     "bootstrap-multiselect": "^0.9.15",
     "getmac": "^1.4.6",
     "jquery": "^3.4.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "jspdf-autotable": "^2.3.5",
     "load-google-maps-api": "^2.0.1",
     "macaddress": "^0.2.9",
